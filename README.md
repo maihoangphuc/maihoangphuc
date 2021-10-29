@@ -7,7 +7,7 @@
   <img align="left" alt="Kaggle" width="35px" src="https://i.ibb.co/R6pHQtc/516085662362mcd8wm0o8-removebg-preview.png" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://e7.pngegg.com/pngimages/906/94/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbnail.png" />
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
 </a>
 
 
