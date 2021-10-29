@@ -1,10 +1,7 @@
 ## Hey 👋, I'm [Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mai-hoàng-phúc-75550620a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/mai-ho%C3%A0ng-ph%C3%BAc-75550620a?trk=profile-badge">Mai Hoàng Phúc</a></div>
-              
-
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/maihoangphuc/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVlxiLVd-2x1LF0shzBECAOor8HqRcF2c2g&usqp=CAU" />
 </a>
 <a href="https://www.kaggle.com/mehdimabrouki">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
