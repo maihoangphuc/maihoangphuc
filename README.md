@@ -5,7 +5,12 @@
 - 🌱 I’m currently learning English.
 - 💬 Ask me about you want.
 - ⚡ Fun fact: single and funny.
- 
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
+<!-- Star -->
+<img src="https://github-readme-stats.vercel.app/api?username=maihoangphuc&show_icons=true&hide_border=true&count_private=true&theme=calm&icon_color=fad000" alt="Mai Hoang Phuc GitHub Stats">
+
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
   <img align="left" alt="LinkdeIn" title="LinkedIn" width="21px" src="https://i.ibb.co/sKFJZLd/9-96186-linkedin-logo-black-linkedin-icon-teal.png" />
@@ -32,12 +37,6 @@
 A high schooler from VietNam with a passion for full stack development. I love python and Js seems to be my new love. 
 
 -----
-
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
-<!-- Star -->
-<img src="https://github-readme-stats.vercel.app/api?username=maihoangphuc&show_icons=true&hide_border=true&count_private=true&theme=calm&icon_color=fad000" alt="Mai Hoang Phuc GitHub Stats">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact)](https://github.com/maihoangphuc)
 
