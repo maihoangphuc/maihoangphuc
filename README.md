@@ -1,4 +1,4 @@
-## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px">, I'm [Phúc](https://github.com/maihoangphuc) <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f588306-54f7-45d3-a26b-02361f0adc40/dcckrsk-7eaf34d4-89c5-4a56-942b-aaed90fffc71.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmNTg4MzA2LTU0ZjctNDVkMy1hMjZiLTAyMzYxZjBhZGM0MFwvZGNja3Jzay03ZWFmMzRkNC04OWM1LTRhNTYtOTQyYi1hYWVkOTBmZmZjNzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.grCYAemyAtr57u59RROIjeTFgjOtNPErbDDLYQjtRo4" width="26px">
+## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px">, I'm [Phúc](https://github.com/maihoangphuc) <img src="https://www.bhpsnj.org/cms/lib/NJ01001806/Centricity/Domain/410/star.gif" width="26px">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
