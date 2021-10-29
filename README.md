@@ -4,7 +4,7 @@
   <img align="left" alt="Mehdi's LinkdeIn" width="23px" src="https://i.ibb.co/rGpVtVG/800-8009127-logo-linkedin-linkedin-logo-png-green-removebg-preview.png" />
 </a>
 <a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="35px" src="https://i.ibb.co/3TcDgbC/333-3334195-free-png-gray-facebook-logo-png-png-images-removebg-preview.png" />
+  <img align="left" alt="Kaggle" width="34px" src="https://i.ibb.co/3TcDgbC/333-3334195-free-png-gray-facebook-logo-png-png-images-removebg-preview.png" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
