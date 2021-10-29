@@ -1,4 +1,4 @@
-## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px">, I'm [Phúc](https://github.com/maihoangphuc) <img src="https://i.pinimg.com/originals/94/7d/81/947d8115c2849d3c17f1ce7a032f21fa.gif" width="26px">
+## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px">, I'm [Phúc](https://github.com/maihoangphuc) <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f5a906-6555-4ee0-ac28-1b3100c44efb/d3k65c6-22483952-035d-417f-9f0d-80dc594d0a55.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxZjVhOTA2LTY1NTUtNGVlMC1hYzI4LTFiMzEwMGM0NGVmYlwvZDNrNjVjNi0yMjQ4Mzk1Mi0wMzVkLTQxN2YtOWYwZC04MGRjNTk0ZDBhNTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RfCPzRjRBKgksxBWiqTjt8AMFKdfkeNaAoVQ-ghHAMA" width="26px">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
