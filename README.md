@@ -1,4 +1,20 @@
-## Hi 👋, I'm [Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/) 
+## Hey 👋, I'm [Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mai-hoàng-phúc-75550620a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/mai-ho%C3%A0ng-ph%C3%BAc-75550620a?trk=profile-badge">Mai Hoàng Phúc</a></div>
+              
+
+<a href="https://www.linkedin.com/in/mehdimabrouki/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/mehdimabrouki">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://www.instagram.com/mabroukimehdi/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mehdi.mabrouki1">
+  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
