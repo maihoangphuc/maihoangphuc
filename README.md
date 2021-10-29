@@ -4,10 +4,10 @@
   <img align="left" alt="Mehdi's LinkdeIn" width="23px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-82-434743.png" />
 </a>
 <a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="33px" src="https://i.ibb.co/R6pHQtc/516085662362mcd8wm0o8-removebg-preview.png" />
+  <img align="left" alt="Kaggle" width="35px" src="https://i.ibb.co/R6pHQtc/516085662362mcd8wm0o8-removebg-preview.png" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://i.ibb.co/drY099V/png-transparent-facebook-social-icons-logo-social-network-facebook-messenger-purple-violet-symbol-ci.png" />
+  <img align="left" alt="Mehdi's Instagram" width="35px" src="https://i.ibb.co/drY099V/png-transparent-facebook-social-icons-logo-social-network-facebook-messenger-purple-violet-symbol-ci.png" />
 </a>
 <a href="https://www.facebook.com/mehdi.mabrouki1">
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
