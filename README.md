@@ -1,6 +1,6 @@
 ## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px"> ~ I'm [Phúc](https://github.com/maihoangphuc) <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="26px">
 
-<img align="right" alt="Facebook" title="Facebook" width="400px" src="https://cdn.dribbble.com/users/1300550/screenshots/3543557/personagem_computador.gif" />
+<img align="right" alt="Facebook" title="Facebook" width="300px" src="https://cdn.dribbble.com/users/1300550/screenshots/3543557/personagem_computador.gif" />
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
