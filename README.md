@@ -20,7 +20,11 @@
   <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
 </a>
 
-<br>
+
+----
+
+A high schooler from India with a passion for full stack development.I love python and Js seems to be my new love. 
+
 -----
 
 
