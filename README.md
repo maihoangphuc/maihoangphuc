@@ -7,11 +7,9 @@
   <img align="left" alt="Kaggle" width="35px" src="https://i.ibb.co/R6pHQtc/516085662362mcd8wm0o8-removebg-preview.png" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="40px" src="https://i.ibb.co/drY099V/png-transparent-facebook-social-icons-logo-social-network-facebook-messenger-purple-violet-symbol-ci.png" />
+  <img align="left" alt="Mehdi's Instagram" width="40px" src="https://i.pinimg.com/originals/bc/36/1b/bc361bb8cf6c655a2a61c4136f2d5009.jpg" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://imgbb.com/"><img src="https://i.pinimg.com/originals/bc/36/1b/bc361bb8cf6c655a2a61c4136f2d5009.jpg" />
-</a>
+
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
