@@ -7,6 +7,8 @@
 - 💬 Ask me about you want.
 - ⚡ Fun fact: single and funny.
 
+<img align="right" alt="Facebook" title="Facebook" width="9px" src="https://cdn.dribbble.com/users/1300550/screenshots/3543557/personagem_computador.gif" />
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <!-- Star -->
