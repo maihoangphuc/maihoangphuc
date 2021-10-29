@@ -14,6 +14,8 @@
 <!-- Star -->
 <img src="https://github-readme-stats.vercel.app/api?username=maihoangphuc&show_icons=true&hide_border=true&count_private=true&theme=calm&icon_color=fad000" alt="Mai Hoang Phuc GitHub Stats">
 
+<br>
+
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
   <img align="left" alt="LinkdeIn" title="LinkedIn" width="21px" src="https://i.ibb.co/sKFJZLd/9-96186-linkedin-logo-black-linkedin-icon-teal.png" />
