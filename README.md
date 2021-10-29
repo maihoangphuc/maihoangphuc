@@ -2,6 +2,27 @@
 
 <img align="right" alt="Facebook" title="Facebook" width="300px" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif" />
 
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/maihoangphuc/">
+  <img align="right" alt="LinkdeIn" title="LinkedIn" width="21px" src="https://i.ibb.co/sKFJZLd/9-96186-linkedin-logo-black-linkedin-icon-teal.png" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/">
+  <img align="right" alt="Facebook" title="Facebook" width="9px" src="https://i.ibb.co/3pb3vWW/556-5568208-facebook-icon-facebook-icon-dark-grey.png" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/mai.hoang.phuc/">
+  <img align="right" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/CPGPHRd/images-1.png" />
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/Mai_Hoang_Phuc">
+  <img align="right" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
+</a>
+
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 - 🔭 I’m learning a programming language
@@ -14,27 +35,7 @@
 <!-- Star -->
 <img src="https://github-readme-stats.vercel.app/api?username=maihoangphuc&show_icons=true&hide_border=true&count_private=true&theme=calm&icon_color=fad000" alt="Mai Hoang Phuc GitHub Stats">
 
-<br>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/maihoangphuc/">
-  <img align="left" alt="LinkdeIn" title="LinkedIn" width="21px" src="https://i.ibb.co/sKFJZLd/9-96186-linkedin-logo-black-linkedin-icon-teal.png" />
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/">
-  <img align="left" alt="Facebook" title="Facebook" width="9px" src="https://i.ibb.co/3pb3vWW/556-5568208-facebook-icon-facebook-icon-dark-grey.png" />
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/mai.hoang.phuc/">
-  <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/CPGPHRd/images-1.png" />
-</a>
-
-<!-- Twitter -->
-<a href="https://twitter.com/Mai_Hoang_Phuc">
-  <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
-</a>
 
 
 ----
