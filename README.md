@@ -1,4 +1,4 @@
-## Hey <img src="https://media3.giphy.com/media/xUOwGh0SYbX8hnMJJm/source.gif" width="30px">, I'm [Phúc](https://github.com/maihoangphuc)
+## Hey <img src="https://media3.giphy.com/media/xUOwGh0SYbX8hnMJJm/source.gif" width="25px">, I'm [Phúc](https://github.com/maihoangphuc)
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
