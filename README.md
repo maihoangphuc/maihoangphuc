@@ -42,7 +42,7 @@ A high schooler from VietNam with a passion for full stack development. I love p
 
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact)](https://github.com/maihoangphuc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=nord)](https://github.com/maihoangphuc)
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My project:
 
