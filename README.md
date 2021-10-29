@@ -49,7 +49,7 @@ A high schooler from VietNam with a passion for full stack development. I love p
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maihoangphuc&repo=automate-Excel-and-Word-using-python&theme=vue-dark" />
 </a>
 
-#### Thanks for visiting 💜💜💜
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 ![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
 
 ⭐️ From [maihoangphuc](https://github.com/maihoangphuc)
