@@ -1,4 +1,10 @@
 ## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px"> ~ I'm [Phúc](https://github.com/maihoangphuc) <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="26px">
+
+:page_with_curl: I'm currently learning:
+- Dart 
+- Python
+- Javascript
+- GraphQL
  
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
