@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/)
 
 <a href="https://www.linkedin.com/in/maihoangphuc/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://i.ibb.co/v1xz15r/linkedin-3-512.png" />
+  <img align="left" alt="Mehdi's LinkdeIn" width="20px" src="https://i.ibb.co/v1xz15r/linkedin-3-512.png" />
 </a>
 <a href="https://www.kaggle.com/mehdimabrouki">
   <img align="left" alt="Kaggle" width="34px" src="https://i.ibb.co/3TcDgbC/333-3334195-free-png-gray-facebook-logo-png-png-images-removebg-preview.png" />
