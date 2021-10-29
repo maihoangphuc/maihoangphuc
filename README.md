@@ -1,4 +1,4 @@
-## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px">, I'm [Phúc](https://github.com/maihoangphuc) <img src="https://pa1.narvii.com/6427/4f46bfac40756fbab6abd103a54587fac0cae115_hq.gif" width="26px">
+## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px">, I'm [Phúc](https://github.com/maihoangphuc) <img src="https://i.pinimg.com/originals/e7/dd/6a/e7dd6a476f5dfcf0e45d0d3b9c325fd3.gif" width="26px">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
