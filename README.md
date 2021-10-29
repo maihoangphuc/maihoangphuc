@@ -38,7 +38,7 @@
 
 ----
 
-A high schooler from VietNam with a passion for full stack development. I love python and Js seems to be my new love. 
+          A high schooler from VietNam with a passion for full stack development. I love python and Js seems to be my new love. 
 
 -----
 
