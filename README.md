@@ -1,4 +1,4 @@
-## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px"> - I'm [Phúc](https://github.com/maihoangphuc) <img src="https://www.animatedimages.org/data/media/916/animated-vietnam-flag-image-0017.gif" width="26px"> <img src="https://www.animatedimages.org/data/media/916/animated-vietnam-flag-image-0017.gif" width="26px"> <img src="https://www.animatedimages.org/data/media/916/animated-vietnam-flag-image-0017.gif" width="26px">
+## Hey <img src="https://static.wixstatic.com/media/7232d6_5b3446ec17914510a4b61cd0f11aac14~mv2.gif" width="26px"> - I'm [Phúc](https://github.com/maihoangphuc) <img src="https://www.animatedimages.org/data/media/916/animated-vietnam-flag-image-0017.gif" width="26px">
  
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
