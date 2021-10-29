@@ -44,6 +44,8 @@ A high schooler from VietNam with a passion for full stack development. I love p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact)](https://github.com/maihoangphuc)
 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My project:
+
 <!-- Repo Card -->
 <a href="https://github.com/maihoangphuc/automate-Excel-and-Word-using-python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maihoangphuc&repo=automate-Excel-and-Word-using-python&theme=vue-dark" />
