@@ -10,7 +10,7 @@
   <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
 </a>
 <a href="https://www.instagram.com/mai.hoang.phuc/">
-  <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
+  <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/NFZDCsF/instagram-logo-icon-vector-27990407.png" />
 </a>
 
 
