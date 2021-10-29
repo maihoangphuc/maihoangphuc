@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/)
+## Hey <img src="https://i.ibb.co/6HhVyhr/wave.gif" width="24px">, I'm [Phúc](https://github.com/maihoangphuc)
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/">
