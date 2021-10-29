@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Mai Hoàng Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/) 
+## Hi 👋, I'm [Phúc](https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/) 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
