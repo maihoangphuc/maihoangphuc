@@ -17,22 +17,22 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Social network:
 
 <!-- LinkedIn -->
-[link](https://www.linkedin.com/in/maihoangphuc/"){:target="_blank"}
+<a href="https://www.linkedin.com/in/maihoangphuc/">
   <img align="left" alt="LinkdeIn" title="LinkedIn" width="21px" src="https://i.ibb.co/sKFJZLd/9-96186-linkedin-logo-black-linkedin-icon-teal.png" />
-
+</a>
 
 <!-- Facebook -->
-<a href="https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/" target="_blank">
+<a href="https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/">
   <img align="left" alt="Facebook" title="Facebook" width="9px" src="https://i.ibb.co/3pb3vWW/556-5568208-facebook-icon-facebook-icon-dark-grey.png" />
 </a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/mai.hoang.phuc/" target="_blank">
+<a href="https://www.instagram.com/mai.hoang.phuc/">
   <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/CPGPHRd/images-1.png" />
 </a>
 
 <!-- Twitter -->
-<a href="https://twitter.com/Mai_Hoang_Phuc" target="_blank">
+<a href="https://twitter.com/Mai_Hoang_Phuc">
   <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
 </a>
 
