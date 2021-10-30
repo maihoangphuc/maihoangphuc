@@ -17,9 +17,9 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Social network:
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/maihoangphuc/" {:target="_blank"}>
+[link](https://www.linkedin.com/in/maihoangphuc/"){:target="_blank"}
   <img align="left" alt="LinkdeIn" title="LinkedIn" width="21px" src="https://i.ibb.co/sKFJZLd/9-96186-linkedin-logo-black-linkedin-icon-teal.png" />
-</a>
+
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/Mai.Hoang.Phuc.1.2.3/" target="_blank">
