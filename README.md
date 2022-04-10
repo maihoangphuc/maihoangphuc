@@ -46,18 +46,6 @@ A high schooler from VietNam with a passion for full stack development. I love p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My project:
-
-<!-- Repo Card -->
-<a href="https://github.com/maihoangphuc/Automate-Excel-And-Word-Using-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maihoangphuc&repo=Automate-Excel-And-Word-Using-Python&theme=vue-dark" />
-</a>
-
-<!-- Repo Card -->
-<a href="https://github.com/maihoangphuc/Headphones-Website-Templates">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=maihoangphuc&repo=Headphones-Website-Templates&theme=vue-dark" />
-</a>
-
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 ![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
 
