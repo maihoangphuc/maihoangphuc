@@ -1,6 +1,6 @@
 ## Hey <img src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif" width="50"> ~ I'm [Phúc](https://github.com/maihoangphuc) <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="50">
 
-<img align="right" alt="gif" title="Hello guys" width="450" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
+<img align="right" alt="gif" title="Hello guys" width="300" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
