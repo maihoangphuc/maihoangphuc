@@ -1,5 +1,6 @@
-## Hey <img src="https://camo.githubusercontent.com/9c893a63e446a02e2901e997d06dd8e970512e766cafbb98fbd340ed41872053/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532466d656469612e67697068792e636f6d2532466d65646961253246336432796c3051754870486459746677566825324667697068792e67696626663d31266e6f66623d31" width="40"> ~ I'm [Phúc](https://github.com/maihoangphuc) <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="50">
+## Hey <img src="https://static.wikia.nocookie.net/nyancat/images/4/49/SadNyanCat-%28.gif/revision/latest?cb=20211005035554" width="40"> ~ I'm [Phúc](https://github.com/maihoangphuc) <img src="https://static.wikia.nocookie.net/nyancat/images/2/2f/AngelicNyan.gif/revision/latest/smart/width/250/height/250?cb=20210914022449" width="35">
 
+<!-- Image top-right -->
 <img align="right" alt="gif" title="Hello guys" width="350" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
@@ -43,6 +44,9 @@ A high schooler from VietNam with a passion for full stack development. I love p
 -----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about the languages?
+
+<!-- Image bottom-right -->
+<img align="right" alt="gif" title="Hello guys" width="300" src="https://66.media.tumblr.com/d51c64aa9e78d1e5ab4b864179d2d3cf/5fc9215a8037578c-89/s640x960/d3d4300fc8fbe18f956afbd316789f4a9dd6ddd2.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
 
