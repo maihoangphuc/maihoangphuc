@@ -1,9 +1,13 @@
 ## Hey <img src="https://static.wikia.nocookie.net/nyancat/images/4/49/SadNyanCat-%28.gif/revision/latest?cb=20211005035554" width="40"> ~ I'm [Mai Hoang Phuc](https://github.com/maihoangphuc) <img src="https://static.wikia.nocookie.net/nyancat/images/2/2f/AngelicNyan.gif/revision/latest/smart/width/250/height/250?cb=20210914022449" width="35">
 
+<div align="right" >
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1002&color=43BB83&width=443&center=true&lines=Hey!+It's+Phuc;I'm+a+Frontend+Developer;I'm+from+in+Vietnamese)](https://git.io/typing-svg)
+
+</div>
+
 <!-- Image top-right -->
 <img align="right" alt="gif" title="Hello guys" width="350" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
-
-<div>
   
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
@@ -16,14 +20,6 @@
 
 <!-- Star -->
 <img src="https://github-readme-stats.vercel.app/api?username=maihoangphuc&show_icons=true&hide_border=true&count_private=true&theme=calm&icon_color=fad000" alt="Mai Hoang Phuc GitHub Stats">
-
-<div align="right" >
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1002&color=43BB83&width=443&center=true&lines=Hey!+It's+Phuc;I'm+a+Frontend+Developer;I'm+from+in+Vietnamese)](https://git.io/typing-svg)
-
-</div>
-  
-</div>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Social network:
 
