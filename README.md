@@ -3,6 +3,9 @@
 <!-- Image top-right -->
 <img align="right" alt="gif" title="Hello guys" width="350" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1002&color=43BB83&width=443&lines=Hey!+It's+Phuc;I'm+a+Frontend+Developer;I'm+from+in+Vietnamese)](https://git.io/typing-svg)
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 - 🔭 I’m learning a programming language
