@@ -1,21 +1,20 @@
 ## Hi <img src="https://static.wikia.nocookie.net/nyancat/images/4/49/SadNyanCat-%28.gif/revision/latest?cb=20211005035554" width="40"> ~ I'm [Mai Hoang Phuc](https://github.com/maihoangphuc) <img src="https://static.wikia.nocookie.net/nyancat/images/2/2f/AngelicNyan.gif/revision/latest/smart/width/250/height/250?cb=20210914022449" width="35">
 
-
-<div align="center">
-
-<!-- Image top-right -->
-<img alt="gif" title="Hello guys" width="330" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1002&color=43BB83&width=443&center=true&lines=I'm+a+<Frontend+Developer/>;I'm+from+in+Vietnamese)](https://git.io/typing-svg)
-
-</div>
-
- #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 - 🔭 I’m learning a programming language
 - 🌱 I’m currently learning English.
 - 💬 Ask me about you want.
 - ⚡ Fun fact: single and funny.
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1002&color=43BB83&width=443&center=true&lines=I'm+a+<Frontend+Developer/>;I'm+from+in+Vietnamese)](https://git.io/typing-svg)
+
+<!-- Image top-right -->
+<img alt="gif" title="Hello guys" width="330" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
+
+</div>
   
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats?
 
