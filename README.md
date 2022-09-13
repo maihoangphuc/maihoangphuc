@@ -59,10 +59,10 @@ A high schooler from VietNam with a passion for full stack development. I love p
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about the languages?
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
+
 <!-- Image bottom-right -->
 <img align="right" alt="gif" title="Hello guys" width="200" src="https://66.media.tumblr.com/d51c64aa9e78d1e5ab4b864179d2d3cf/5fc9215a8037578c-89/s640x960/d3d4300fc8fbe18f956afbd316789f4a9dd6ddd2.gif" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 ![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
