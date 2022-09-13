@@ -1,11 +1,19 @@
 ## Hi <img src="https://static.wikia.nocookie.net/nyancat/images/4/49/SadNyanCat-%28.gif/revision/latest?cb=20211005035554" width="40"> ~ I'm [Phuc](https://github.com/maihoangphuc) <img src="https://static.wikia.nocookie.net/nyancat/images/2/2f/AngelicNyan.gif/revision/latest/smart/width/250/height/250?cb=20210914022449" width="35">
 
+<div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1002&color=43BB83&width=443&center=true&lines=I'm+a+Frontend+Developer;I'm+from+in+Vietnamese)](https://git.io/typing-svg)
 
+</div>
+
+<div align="right">
+
 <!-- Image top-right -->
-<img align="right" alt="gif" title="Hello guys" width="330" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
+<img alt="gif" title="Hello guys" width="330" src="https://i.pinimg.com/originals/da/81/0d/da810d2a31e40a5747cbe51ded08330f.gif" />
+
+</div>
 
 </div>
 
