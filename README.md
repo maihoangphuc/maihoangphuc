@@ -1,5 +1,4 @@
-### Hi, I'm [Phuc](https://github.com/maihoangphuc) 👨‍💻  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+### Hi, I'm [Phuc](https://github.com/maihoangphuc) 👨‍💻
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
