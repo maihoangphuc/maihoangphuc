@@ -60,4 +60,4 @@ A high schooler from VietNam with a passion for Full-stack Development. I love C
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
 
-⭐️ From $${\color{green}\text{maihoangphuc}}$$
+⭐️ From $${\color{green}maihoangphuc}$$
