@@ -1,5 +1,5 @@
 ### Hi, I'm [Phuc](https://github.com/maihoangphuc) 👨‍💻
-### Hi, I'm Phuc 👨‍💻 ![badge](https://img.shields.io/badge/Phuc-%232ecc71?style=flat)
+![Phuc](https://img.shields.io/badge/Phuc-white?style=flat&labelColor=2ecc71&color=2ecc71)
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
