@@ -1,5 +1,5 @@
 ### Hi, I'm [Phuc](https://github.com/maihoangphuc) 👨‍💻
-![Phuc Typing Green](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=9999999&color=2ECC71&vCenter=true&width=120&lines=Phuc)
+### Hi, I'm ![Phuc](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=9999999&color=2ECC71&center=false&vCenter=true&width=150&lines=Phuc) 👨‍💻
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
