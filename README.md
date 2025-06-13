@@ -1,4 +1,6 @@
 ### Hi, I'm $${\color{LimeGreen}\text{Phuc}}$$ 👨‍💻
+
+#0f0[This is green text]
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
