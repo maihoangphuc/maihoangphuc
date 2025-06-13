@@ -1,5 +1,5 @@
 ### Hi, I'm [Phuc](https://github.com/maihoangphuc) 👨‍💻
-![Phuc](https://img.shields.io/badge/Phuc-white?style=flat&labelColor=2ecc71&color=2ecc71)
+### Hi, I'm <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60' height='20'><text x='0' y='15' fill='%232ecc71' font-size='16' font-family='Arial'>Phuc</text></svg>" alt="Phuc" />
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
