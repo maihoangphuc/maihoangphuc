@@ -59,10 +59,3 @@ A high schooler from VietNam with a passion for Full-stack Development. I love C
 ![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
 
 ⭐️ From $${\color{lightgreen}{maihoangphuc}}$$
-
-[**maihoangphuc**](https://github.com/maihoangphuc)
-
-$$\color{lightgreen}{\text{maihoangphuc}}$$
-
-
-
