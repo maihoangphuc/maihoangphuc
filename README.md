@@ -60,5 +60,5 @@ A high schooler from VietNam with a passion for Full-stack Development. I love C
 
 ⭐️ From $${\color{lightgreen}{maihoangphuc}}$$
 
-[**<span style="color: lightgreen;">maihoangphuc</span>**](https://github.com/maihoangphuc)
+[**<span style="color:red;">maihoangphuc</span>**](https://github.com/maihoangphuc)
 
