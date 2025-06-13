@@ -1,4 +1,4 @@
-### Hi, I'm $${\color{green}\text{Phuc}}$$ 👨‍💻
+### Hi, I'm $${\color{lightgreen}\text{Phuc}}$$ 👨‍💻
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
@@ -60,4 +60,4 @@ A high schooler from VietNam with a passion for Full-stack Development. I love C
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
 
-⭐️ From $${\color{green}maihoangphuc}$$
+⭐️ From $${\color{lightgreen}maihoangphuc}$$
