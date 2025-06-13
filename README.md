@@ -5,6 +5,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 - 💻 Frontend Developer for $${\color{Orchid}\text{\textbf{2+ year}}}$$.
+- a $$\color{Orchid}{\boldsymbol{\text{2+ year}}}$$
 - 🎯 Aspiring $${\color{lightgreen}\text{Senior Software Engineer}}$$.
 
 <!-- text typing & cat -->
