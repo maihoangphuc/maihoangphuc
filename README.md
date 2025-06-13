@@ -1,12 +1,10 @@
-### Hi, I'm $${\color{lightgreen}\text{Phuc}}$$ 👨‍💻
+### Hi, I'm $${\color{lightgreen}\text{Phuc}}$$ <img src="https://cdn-icons-gif.flaticon.com/16768/16768508.gif" width="50">
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-- 🔭 Frontend Developer for $${\color{lightgreen}\text{2+ year}}$$.
-- 🌱 Aspiring $${\color{lightgreen}\text{Senior Software Engineer}}$$.
-- 💬 Ask me about you want.
-- ⚡ Fun fact: single and funny.
+- 👨‍💻 Frontend Developer for $${\color{lightgreen}\text{2+ year}}$$.
+- 🎯 Aspiring $${\color{lightgreen}\text{Senior Software Engineer}}$$.
 
 <!-- text typing & cat -->
 <div align="center">
