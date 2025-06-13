@@ -1,4 +1,4 @@
-### Hi, I'm $${\color{lightgreen}\text{Phuc}}$$ <img src="https://cdn-icons-gif.flaticon.com/16768/16768508.gif" width="50">
+### Hi, I'm $${\color{lightgreen}\text{Phuc}}$$ ♍
 -----
 
 
