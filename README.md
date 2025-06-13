@@ -58,6 +58,4 @@ A high schooler from VietNam with a passion for Full-stack Development. I love C
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 ![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
-
-⭐️ From $${\color{lightgreen}maihoangphuc}$$
+⭐️ From $${\color{lightgreen}[maihoangphuc](https://www.facebook.com/maihoangphuc9x)}$$
