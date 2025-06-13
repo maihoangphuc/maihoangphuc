@@ -1,4 +1,4 @@
-### Hi, I'm $${\color{teal}\text{Phuc}}$$ 👨‍💻
+### Hi, I'm $${\color{YellowGreen}\text{Phuc}}$$ 👨‍💻
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
