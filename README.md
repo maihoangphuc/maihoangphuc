@@ -1,7 +1,4 @@
-### Hi, I'm [Phuc](https://github.com/maihoangphuc) 👨‍💻
-### Hi, I'm ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=9999999&color=2ECC71&center=false&width=150&lines=Phuc) 👨‍💻\\
-
-Hi [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=false&width=50&height=30&lines=Phuc)]
+### Hi, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=false&width=50&height=30&lines=Phuc)](https://github.com/maihoangphuc) 👨‍💻
 -----
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
