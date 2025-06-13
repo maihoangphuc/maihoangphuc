@@ -58,4 +58,4 @@ A high schooler from VietNam with a passion for Full-stack Development. I love C
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 ![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
 
-⭐️ From [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=1&pause=&color=2ECC71&center=true&vCenter=true&repeat=false&width=120&height=16&lines=maihoangphuc)](https://git.io/typing-svg)
+⭐️ From [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=1&pause=&color=2ECC71&center=true&vCenter=true&repeat=false&width=120&height=15&lines=maihoangphuc)](https://git.io/typing-svg)
