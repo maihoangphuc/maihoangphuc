@@ -1,4 +1,4 @@
-### Hi, I'm $${\color{lightgreen}\text{Phuc}}$$ 👨🏻‍💻
+### Hi, I'm Phuc 👨🏻‍💻
 -----
 
 
