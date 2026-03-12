@@ -39,9 +39,9 @@
   <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/CPGPHRd/images-1.png" />
 </a>
 
-<!-- Twitter -->
+<!-- X -->
 <a href="https://twitter.com/Mai_Hoang_Phuc" target="_blank">
-  <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/Nxh3WbB/png-clipart-social-media-computer-icons-like-button-linkedin-share-icon-twitter-purple-violet-thumbn.png" />
+  <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/VYmkFmHb/twitter-new-2023-x-logo-white-background-vector-1017-45422.avif" />
 </a>
 
 ----
