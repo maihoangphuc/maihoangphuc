@@ -55,6 +55,5 @@ Let's get in touch to talk about potential collaboration.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
-![VisitorCount](https://profile-counter.glitch.me/maihoangphuc/count.svg)
 
 ⭐️ From $${\color{lightgreen}{maihoangphuc}}$$
