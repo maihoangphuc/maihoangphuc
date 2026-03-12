@@ -41,7 +41,7 @@
 
 <!-- X -->
 <a href="https://twitter.com/Mai_Hoang_Phuc" target="_blank">
-  <img align="left" alt="Twitter" title="Twitter" width="22px" src="https://i.ibb.co/VYmkFmHb/twitter-new-2023-x-logo-white-background-vector-1017-45422.avif" />
+  <img align="left" alt="X" title="X" width="22px" src="https://i.ibb.co/Jjtrdx6j/twitter-new-2023-x-logo-white-background-vector-1017-45422.avif" />
 </a>
 
 ----
