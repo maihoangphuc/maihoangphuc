@@ -40,8 +40,8 @@
 </a>
 
 <!-- X -->
-<a href="https://twitter.com/Mai_Hoang_Phuc" target="_blank">
-  <img align="left" alt="X" title="X" width="22px" src="https://i.ibb.co/Jjtrdx6j/twitter-new-2023-x-logo-white-background-vector-1017-45422.avif" />
+<a href="https://x.com/mai_hoang_phuc" target="_blank">
+  <img align="left" alt="X" title="X" width="22px" src="https://i.ibb.co/fYMTbxZc/twitter-x-new-logo-x-rounded-icon-256078.png" />
 </a>
 
 ----
