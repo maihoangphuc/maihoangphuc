@@ -26,7 +26,7 @@
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/" target="_blank">
-  <img align="left" alt="LinkdeIn" title="LinkedIn" width="25px" src="https://i.ibb.co/4RPbHM0m/Linkedin-logo-on-transparent-background-PNG-removebg-preview.png" />
+  <img align="left" alt="LinkdeIn" title="LinkedIn" width="27px" src="https://i.ibb.co/4RPbHM0m/Linkedin-logo-on-transparent-background-PNG-removebg-preview.png" />
 </a>
 
 <!-- Facebook -->
