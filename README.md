@@ -41,7 +41,7 @@
 
 <!-- X -->
 <a href="https://x.com/mai_hoang_phuc" target="_blank">
-  <img align="left" alt="X" title="X" width="22px" src="https://i.ibb.co/fYMTbxZc/twitter-x-new-logo-x-rounded-icon-256078.png" />
+  <img align="left" alt="X" title="X" width="22px" src="https://i.ibb.co/60kmy1Kt/x-logo.jpg" />
 </a>
 
 ----
