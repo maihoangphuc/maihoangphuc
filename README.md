@@ -31,7 +31,7 @@
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/maihoangphuc9x" target="_blank">
-  <img align="left" alt="Facebook" title="Facebook" width="9px" src="https://i.ibb.co/S4QBhDyG/facebook-logo-icon-fb-app-transparent-background-premium-social-media-design-for-digital-download-fr.png" />
+  <img align="left" alt="Facebook" title="Facebook" width="27px" src="https://i.ibb.co/S4QBhDyG/facebook-logo-icon-fb-app-transparent-background-premium-social-media-design-for-digital-download-fr.png" />
 </a>
 
 <!-- Instagram -->
