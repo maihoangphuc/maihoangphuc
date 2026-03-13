@@ -61,21 +61,15 @@ Let's get in touch to talk about potential collaboration.
 
 #### 🛠 Tech Stack
 
-<p>
 <strong>Core:</strong>
-<span align="center">
-<img height="20" src="https://cdn.simpleicons.org/react" />
-<img height="20" src="https://cdn.simpleicons.org/vue.js" />
-<img height="20" src="https://cdn.simpleicons.org/nextdotjs" />
-<img height="20" src="https://cdn.simpleicons.org/javascript" />
-<img height="20" src="https://cdn.simpleicons.org/typescript" />
-</span>
-</p>
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/react" />
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/vue.js" />
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/nextdotjs" />
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/javascript" />
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/typescript" />
 
-<p>
+<br/>
+
 <strong>Style:</strong>
-<span align="center">
-<img height="20" src="https://cdn.simpleicons.org/tailwindcss" />
-<img height="20" src="https://cdn.simpleicons.org/antdesign" />
-</span>
-</p>
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/antdesign" />
