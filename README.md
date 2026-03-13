@@ -36,7 +36,7 @@
 
 <!-- Instagram -->
 <a href="https://www.instagram.com/mai.hoang.phuc/" target="_blank">
-  <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/CPGPHRd/images-1.png" />
+  <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/VcjsqVMm/pngtree-instagram-icon-png-image-6315974.png" />
 </a>
 
 <!-- X -->
