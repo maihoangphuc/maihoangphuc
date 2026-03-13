@@ -61,6 +61,14 @@ Let's get in touch to talk about potential collaboration.
 
 #### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,tailwind,antd,git,github,vscode" />
+**Core**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts" />
+</p>
+
+**Style**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,antd" />
 </p>
