@@ -62,14 +62,14 @@ Let's get in touch to talk about potential collaboration.
 #### 🛠 Tech Stack
 
 **Core:** 
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/react" />&nbsp;
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/vue.js" />&nbsp;
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/nextdotjs" />&nbsp;
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/javascript" />&nbsp;
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/typescript" />
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/react" />&nbsp;
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/vue.js" />&nbsp;
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/nextdotjs" />&nbsp;
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/javascript" />&nbsp;
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/typescript" />
 
 <br/>
 
 **Style:** 
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/tailwindcss" />&nbsp;
-<img height="22" style="vertical-align:middle;" src="https://cdn.simpleicons.org/antdesign" />
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/tailwindcss" />&nbsp;
+<img height="16" style="vertical-align:middle;" src="https://cdn.simpleicons.org/antdesign" />
