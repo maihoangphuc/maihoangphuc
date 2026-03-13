@@ -61,23 +61,21 @@ Let's get in touch to talk about potential collaboration.
 
 #### 🛠 Tech Stack
 
-<table>
-<tr>
-<td><strong>Core:</strong></td>
-<td align="center">
-  <img height="20" src="https://cdn.simpleicons.org/react" />
-  <img height="20" src="https://cdn.simpleicons.org/vue.js" />
-  <img height="20" src="https://cdn.simpleicons.org/nextdotjs" />
-  <img height="20" src="https://cdn.simpleicons.org/javascript" />
-  <img height="20" src="https://cdn.simpleicons.org/typescript" />
-</td>
-</tr>
+<div style="display:flex; align-items:center; gap:10px;">
+  <strong>Core:</strong>
+  <div style="flex:1; text-align:center;">
+    <img height="20" src="https://cdn.simpleicons.org/react" />
+    <img height="20" src="https://cdn.simpleicons.org/vue.js" />
+    <img height="20" src="https://cdn.simpleicons.org/nextdotjs" />
+    <img height="20" src="https://cdn.simpleicons.org/javascript" />
+    <img height="20" src="https://cdn.simpleicons.org/typescript" />
+  </div>
+</div>
 
-<tr>
-<td><strong>Style:</strong></td>
-<td align="center">
-  <img height="20" src="https://cdn.simpleicons.org/tailwindcss" />
-  <img height="20" src="https://cdn.simpleicons.org/antdesign" />
-</td>
-</tr>
-</table>
+<div style="display:flex; align-items:center; gap:10px;">
+  <strong>Style:</strong>
+  <div style="flex:1; text-align:center;">
+    <img height="20" src="https://cdn.simpleicons.org/tailwindcss" />
+    <img height="20" src="https://cdn.simpleicons.org/antdesign" />
+  </div>
+</div>
