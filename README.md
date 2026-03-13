@@ -61,7 +61,7 @@ Let's get in touch to talk about potential collaboration.
 
 #### 🛠 Tech Stack
 
-<strong>Core:</strong>
+<strong style="margin-top:-4px;">Core:</strong>
 <img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/react" />
 <img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/vue.js" />
 <img height="20" style="margin-top:4px;" src="https://cdn.simpleicons.org/nextdotjs" />
