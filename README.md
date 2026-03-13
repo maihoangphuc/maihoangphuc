@@ -61,13 +61,23 @@ Let's get in touch to talk about potential collaboration.
 
 #### 🛠 Tech Stack
 
-**Core:** 
-<img height="20" src="https://skillicons.dev/icons?i=react" />
-<img height="20" src="https://skillicons.dev/icons?i=vue" />
-<img height="20" src="https://skillicons.dev/icons?i=nextjs" />
-<img height="20" src="https://skillicons.dev/icons?i=js" />
-<img height="20" src="https://skillicons.dev/icons?i=ts" />
+<table>
+<tr>
+<td><strong>Core:</strong></td>
+<td align="center">
+  <img height="20" src="https://cdn.simpleicons.org/react" />
+  <img height="20" src="https://cdn.simpleicons.org/vue.js" />
+  <img height="20" src="https://cdn.simpleicons.org/nextdotjs" />
+  <img height="20" src="https://cdn.simpleicons.org/javascript" />
+  <img height="20" src="https://cdn.simpleicons.org/typescript" />
+</td>
+</tr>
 
-**Style:** 
-<img height="20" src="https://skillicons.dev/icons?i=tailwind" />
-<img height="20" src="https://skillicons.dev/icons?i=antd" />
+<tr>
+<td><strong>Style:</strong></td>
+<td align="center">
+  <img height="20" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img height="20" src="https://cdn.simpleicons.org/antdesign" />
+</td>
+</tr>
+</table>
