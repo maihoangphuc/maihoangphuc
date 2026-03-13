@@ -61,21 +61,21 @@ Let's get in touch to talk about potential collaboration.
 
 #### 🛠 Tech Stack
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <strong>Core:</strong>
-  <div style="flex:1; text-align:center;">
-    <img height="20" src="https://cdn.simpleicons.org/react" />
-    <img height="20" src="https://cdn.simpleicons.org/vue.js" />
-    <img height="20" src="https://cdn.simpleicons.org/nextdotjs" />
-    <img height="20" src="https://cdn.simpleicons.org/javascript" />
-    <img height="20" src="https://cdn.simpleicons.org/typescript" />
-  </div>
-</div>
+<p>
+<strong>Core:</strong>
+<span align="center">
+<img height="20" src="https://cdn.simpleicons.org/react" />
+<img height="20" src="https://cdn.simpleicons.org/vue.js" />
+<img height="20" src="https://cdn.simpleicons.org/nextdotjs" />
+<img height="20" src="https://cdn.simpleicons.org/javascript" />
+<img height="20" src="https://cdn.simpleicons.org/typescript" />
+</span>
+</p>
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <strong>Style:</strong>
-  <div style="flex:1; text-align:center;">
-    <img height="20" src="https://cdn.simpleicons.org/tailwindcss" />
-    <img height="20" src="https://cdn.simpleicons.org/antdesign" />
-  </div>
-</div>
+<p>
+<strong>Style:</strong>
+<span align="center">
+<img height="20" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="20" src="https://cdn.simpleicons.org/antdesign" />
+</span>
+</p>
