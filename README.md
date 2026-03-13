@@ -26,22 +26,22 @@
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maihoangphuc/" target="_blank">
-  <img align="left" alt="LinkdeIn" title="LinkedIn" width="27px" src="https://i.ibb.co/4RPbHM0m/Linkedin-logo-on-transparent-background-PNG-removebg-preview.png" />
+  <img align="left" alt="LinkdeIn" title="LinkedIn" width="30px" src="https://i.ibb.co/4RPbHM0m/Linkedin-logo-on-transparent-background-PNG-removebg-preview.png" />
 </a>
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/maihoangphuc9x" target="_blank">
-  <img align="left" alt="Facebook" title="Facebook" width="27px" src="https://i.ibb.co/S4QBhDyG/facebook-logo-icon-fb-app-transparent-background-premium-social-media-design-for-digital-download-fr.png" />
+  <img align="left" alt="Facebook" title="Facebook" width="30px" src="https://i.ibb.co/S4QBhDyG/facebook-logo-icon-fb-app-transparent-background-premium-social-media-design-for-digital-download-fr.png" />
 </a>
 
 <!-- Instagram -->
 <a href="https://www.instagram.com/mai.hoang.phuc/" target="_blank">
-  <img align="left" alt="Instagram" title="Instagram" width="22px" src="https://i.ibb.co/VcjsqVMm/pngtree-instagram-icon-png-image-6315974.png" />
+  <img align="left" alt="Instagram" title="Instagram" width="30px" src="https://i.ibb.co/VcjsqVMm/pngtree-instagram-icon-png-image-6315974.png" />
 </a>
 
 <!-- X -->
 <a href="https://x.com/mai_hoang_phuc" target="_blank">
-  <img align="left" alt="X" title="X" width="22px" src="https://i.ibb.co/DPvwt61w/large-x-logo-png-twimg-1920-removebg-preview.png" />
+  <img align="left" alt="X" title="X" width="30px" src="https://i.ibb.co/DPvwt61w/large-x-logo-png-twimg-1920-removebg-preview.png" />
 </a>
 
 ----
