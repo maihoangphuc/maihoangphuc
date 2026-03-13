@@ -2,7 +2,7 @@
 -----
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=About_me&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
 
 - 💻 Frontend Developer for **3+ year**.
 - 🚀 Aspiring Senior **Software Engineer**.
