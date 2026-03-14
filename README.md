@@ -68,7 +68,7 @@ From $${\color{#90EE90}{\text{Mai Hoang Phuc}}}$$
 
 <!-- X -->
 <a href="https://x.com/mai_hoang_phuc" target="_blank">
-  <img align="left" alt="X" title="X" width="20px" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" />
+  <img align="left" alt="X" title="X" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/960px-X_logo.jpg?_=20230724061250" />
 </a>
 
 <!-- LinkedIn -->
