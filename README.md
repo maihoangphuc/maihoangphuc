@@ -4,7 +4,7 @@
   
 -----
 
-**Frontend Developer** with ${\color{#FFF59D}{\text{3+ years of experience}}}$ building **scalable web applications** and **admin dashboards** using **ReactJS**, **NextJS**, and **VueJS**. Focused on delivering **high-performance**, **maintainable**, and **user-friendly interfaces**.
+**Frontend Developer** with **3+ years of experience** building **scalable web applications** and **admin dashboards** using **ReactJS**, **NextJS**, and **VueJS**. Focused on delivering **high-performance**, **maintainable**, and **user-friendly interfaces**.
 
 <!-- text typing & cat -->
 <div align="center">
