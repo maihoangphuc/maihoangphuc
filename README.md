@@ -56,3 +56,22 @@ Let's get in touch to talk about potential collaboration.
 
 From $${\color{#90EE90}{\text{Mai Hoang Phuc}}}$$
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
+<!-- Facebook -->
+<a href="https://www.facebook.com/maihoangphuc9x" target="_blank">
+  <img align="left" alt="Facebook" title="Facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/mai.hoang.phuc/" target="_blank">
+  <img align="left" alt="Instagram" title="Instagram" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+
+<!-- X -->
+<a href="https://x.com/mai_hoang_phuc" target="_blank">
+  <img align="left" alt="X" title="X" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/maihoangphuc" target="_blank">
+  <img align="left" alt="Linkedin" title="Linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
