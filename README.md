@@ -16,7 +16,7 @@ ${\color{#FFF59D}{\text{Frontend Developer}}}$ with ${\color{#FFF59D}{\text{3+ y
 
 </div>
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about the languages?
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge\&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=for-the-badge\&logo=next.js)
