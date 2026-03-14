@@ -60,7 +60,7 @@ Let's get in touch to talk about potential collaboration.
 
 
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 <td align="left">
 
@@ -70,7 +70,7 @@ Let's get in touch to talk about potential collaboration.
 
 <td align="right">
 
-<img style="margin-top:'30px'" src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
 
 </td>
 </tr>
