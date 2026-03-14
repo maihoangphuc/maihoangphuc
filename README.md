@@ -58,3 +58,11 @@ Let's get in touch to talk about potential collaboration.
 
 ⭐️$${\color{white}{\text{From}}}\ \color{#90EE90}{\text{maihoangphuc}}$$
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
+
+$${\color{white}{\text{From}}}\ \color{#90EE90}{\text{maihoangphuc}}$$
+
+</div>
