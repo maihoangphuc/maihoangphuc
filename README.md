@@ -1,4 +1,4 @@
-### Hi, I'm Phuc 👨🏻‍💻
+### $${\color{white}{\text{Hi, I'm}}}\ \color{#90EE90}{\text{Phuc}}$$ 👨🏻‍💻
 -----
 
 
