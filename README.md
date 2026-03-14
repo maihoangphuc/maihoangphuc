@@ -1,8 +1,8 @@
 <h3 align="center">
   $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$ 👨🏻‍💻
 </h3>
-  
------
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 
 **Frontend Developer** with **3+ years of experience** building **scalable web applications** and **admin dashboards** using **ReactJS**, **NextJS**, and **VueJS**. Focused on delivering **high-performance**, **maintainable**, and **user-friendly interfaces**.
 
