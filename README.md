@@ -29,6 +29,11 @@
   <img align="left" alt="LinkdeIn" title="LinkedIn" width="30px" src="https://i.ibb.co/4RPbHM0m/Linkedin-logo-on-transparent-background-PNG-removebg-preview.png" />
 </a>
 
+<a href="https://www.linkedin.com/in/maihoangphuc/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
+</a>
+
+
 <!-- Facebook -->
 <a href="https://www.facebook.com/maihoangphuc9x" target="_blank">
   <img align="left" alt="Facebook" title="Facebook" width="30px" src="https://i.ibb.co/S4QBhDyG/facebook-logo-icon-fb-app-transparent-background-premium-social-media-design-for-digital-download-fr.png" />
