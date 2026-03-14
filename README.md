@@ -2,7 +2,7 @@
 -----
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> $${\color{lightgreen}{About me:}}$$
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A?
 
 - 💻 Frontend Developer for **3+ year**.
 - 🚀 Aspiring Senior **Software Engineer**.
