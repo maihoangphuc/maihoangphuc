@@ -2,7 +2,7 @@
 -----
 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A?
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 - 💻 Frontend Developer for **3+ year**.
 - 🚀 Aspiring Senior **Software Engineer**.
@@ -57,19 +57,3 @@ Let's get in touch to talk about potential collaboration.
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 
 ⭐️ From $${\color{lightgreen}{maihoangphuc}}$$
-
-
-#### 🛠 Tech Stack
-
-**Core**
-
-<img height="18" src="https://skillicons.dev/icons?i=react" />
-<img height="18" src="https://skillicons.dev/icons?i=vue" />
-<img height="18" src="https://skillicons.dev/icons?i=nextjs" />
-<img height="18" src="https://skillicons.dev/icons?i=js" />
-<img height="18" src="https://skillicons.dev/icons?i=ts" />
-
-**Style**
-
-<img height="18" src="https://skillicons.dev/icons?i=tailwind" />
-<img height="18" src="https://skillicons.dev/icons?i=antd" />
