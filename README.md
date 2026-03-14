@@ -68,7 +68,7 @@ Let's get in touch to talk about potential collaboration.
 
 </td>
 
-<td align="right">
+<td align="right" style="margin-top:'30px'">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
 
