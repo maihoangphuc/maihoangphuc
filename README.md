@@ -1,27 +1,17 @@
 ### $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$ 👨🏻‍💻
 -----
 
+Frontend Developer with $${\color{#90EE90}{\text{3+ years of experience}}}$$ building scalable web applications and admin dashboards using ReactJS, NextJS, and VueJS, focused on delivering high-performance and user-friendly interfaces.
+
 <!-- text typing & cat -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1002&color=90EE90&width=443&center=true&lines=I'm+a+<Web+Developer/>;I'm+from+in+Vietnamese)](https://github.com/maihoangphuc)
 
 <!-- Image cat -->
 <img alt="gif" title="meozz meozz" width="220" src="https://media1.popsugar-assets.com/files/thumbor/wMTPRFiKYNjWvLQFZb8gsbmgyXE/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/21/643/n/46781279/a3b33e504e62238f_bdd6391796f9a19d275c489827607b4a-sticker/i/Scared-Black-Cat.gif" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1002&color=90EE90&width=443&center=true&lines=I'm+a+<Web+Developer/>;I'm+from+in+Vietnamese)](https://github.com/maihoangphuc)
+
 </div>
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
-
-----
-
-<p align="center">
-<img width="240px" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,webpack,css,html,js" />
-</p>
-
-Frontend Developer with $${\color{#90EE90}{\text{3+ years of experience}}}$$ building scalable web applications and admin dashboards using ReactJS, NextJS, and VueJS, focused on delivering high-performance and user-friendly interfaces.
-
------
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about the languages?
 
