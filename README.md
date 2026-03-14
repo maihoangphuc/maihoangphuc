@@ -18,7 +18,18 @@ ${\color{#FFF59D}{\text{Frontend Developer}}}$ with ${\color{#FFF59D}{\text{3+ y
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about the languages?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maihoangphuc&layout=compact&theme=ayu-mirage)](https://github.com/maihoangphuc)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/-Next.js-black?style=for-the-badge\&logo=next.js)
+![Vue](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge\&logo=vue.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge\&logo=redux)
+![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge\&logo=reactquery)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-black?style=for-the-badge\&logo=antdesign)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge\&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge\&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge\&logo=sass)
 
 From $${\color{#90EE90}{\text{Mai Hoang Phuc}}}$$
 
