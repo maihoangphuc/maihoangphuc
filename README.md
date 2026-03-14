@@ -1,11 +1,6 @@
 ### $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$ 👨🏻‍💻
 -----
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
-
-- 💻 Frontend Developer for **3+ year**.
-- 🚀 Aspiring Senior **Software Engineer**.
-
 <!-- text typing & cat -->
 <div align="center">
 
@@ -15,17 +10,16 @@
 <img alt="gif" title="meozz meozz" width="220" src="https://media1.popsugar-assets.com/files/thumbor/wMTPRFiKYNjWvLQFZb8gsbmgyXE/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/21/643/n/46781279/a3b33e504e62238f_bdd6391796f9a19d275c489827607b4a-sticker/i/Scared-Black-Cat.gif" />
 
 </div>
-  
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats?
 
-<!-- Star -->
-<img src="https://github-readme-stats.vercel.app/api?username=maihoangphuc&show_icons=true&hide_border=true&count_private=true&theme=calm&icon_color=fad000" alt="Mai Hoang Phuc GitHub Stats">
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Social network:
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 ----
 
-Let's get in touch to talk about potential collaboration. 
+<p align="center">
+<img width="240px" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,webpack,css,html,js" />
+</p>
+
+Frontend Developer with $${\color{#90EE90}{\text{3+ years of experience}}}$$ building scalable web applications and admin dashboards using ReactJS, NextJS, and VueJS, focused on delivering high-performance and user-friendly interfaces.
 
 -----
 
