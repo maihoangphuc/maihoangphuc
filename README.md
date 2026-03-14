@@ -1,8 +1,10 @@
-### $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$ 👨🏻‍💻
+<h3 align="center">
+  $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$ 👨🏻‍💻
+</h3>
+  
 -----
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
-Frontend Developer with $${\color{#90EE90}{\text{3+ years of experience}}}$$ building scalable web applications and admin dashboards using ReactJS, NextJS, and VueJS, focused on delivering high-performance and user-friendly interfaces.
+${\color{#FFF59D}{\text{Frontend Developer}}}$ with ${\color{#FFF59D}{\text{3+ years of experience}}}$ building ${\color{#FFF59D}{\text{scalable web applications}}}$ and ${\color{#FFF59D}{\text{admin dashboards}}}$ using ${\color{#FFF59D}{\text{ReactJS}}}$, ${\color{#FFF59D}{\text{NextJS}}}$, and ${\color{#FFF59D}{\text{VueJS}}}$. Focused on delivering ${\color{#FFF59D}{\text{high-performance}}}$, ${\color{#FFF59D}{\text{maintainable}}}$, and ${\color{#FFF59D}{\text{user-friendly interfaces}}}$.
 
 <!-- text typing & cat -->
 <div align="center">
@@ -10,7 +12,7 @@ Frontend Developer with $${\color{#90EE90}{\text{3+ years of experience}}}$$ bui
 <!-- Image cat -->
 <img alt="gif" title="meozz meozz" width="220" src="https://media1.popsugar-assets.com/files/thumbor/wMTPRFiKYNjWvLQFZb8gsbmgyXE/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/21/643/n/46781279/a3b33e504e62238f_bdd6391796f9a19d275c489827607b4a-sticker/i/Scared-Black-Cat.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1002&color=90EE90&width=443&center=true&lines=I'm+a+<Web+Developer/>;I'm+from+in+Vietnamese)](https://github.com/maihoangphuc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1002&color=90EE90&width=443&center=true&lines=I'm+a+<Frontend+Developer/>;I'm+from+in+Vietnamese)](https://github.com/maihoangphuc)
 
 </div>
 
