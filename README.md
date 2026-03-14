@@ -4,7 +4,9 @@
   
 -----
 
+<h4>
 ${\color{#FFF59D}{\text{Frontend Developer}}}$ with ${\color{#FFF59D}{\text{3+ years of experience}}}$ building ${\color{#FFF59D}{\text{scalable web applications}}}$ and ${\color{#FFF59D}{\text{admin dashboards}}}$ using ${\color{#FFF59D}{\text{ReactJS}}}$, ${\color{#FFF59D}{\text{NextJS}}}$, and ${\color{#FFF59D}{\text{VueJS}}}$. Focused on delivering ${\color{#FFF59D}{\text{high-performance}}}$, ${\color{#FFF59D}{\text{maintainable}}}$, and ${\color{#FFF59D}{\text{user-friendly interfaces}}}$.
+</h4>
 
 <!-- text typing & cat -->
 <div align="center">
