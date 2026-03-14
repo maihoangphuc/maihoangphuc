@@ -60,8 +60,17 @@ Let's get in touch to talk about potential collaboration.
 
 
 
+<table width="100%">
+<tr>
+<td>
+
 ⭐️ From $${\color{lightgreen}{maihoangphuc}}$$
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc" />
-</p>
+</td>
+<td align="right">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc" />
+
+</td>
+</tr>
+</table>
