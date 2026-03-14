@@ -31,6 +31,23 @@ ${\color{#FFF59D}{\text{Frontend Developer}}}$ with ${\color{#FFF59D}{\text{3+ y
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge\&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge\&logo=sass)
 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Experience & Education?
+
+<pre>
+│
+├─ 💼 Fastboy Marketing
+│   Jul 2025 — Present
+│
+├─ 💼 IES Company
+│   Jan 2024 — May 2025
+│
+├─ 💼 TESO Company
+│   Sep 2022 — Dec 2023
+│
+└─ 🎓 Binh Duong University
+    Aug 2017 — Jul 2022
+</pre>
+
 From $${\color{#90EE90}{\text{Mai Hoang Phuc}}}$$
 
 <!-- Facebook -->
