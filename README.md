@@ -56,5 +56,5 @@ Let's get in touch to talk about potential collaboration.
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting 💜💜💜
 
-      $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$
+From $${\color{#90EE90}{\text{Mai Hoang Phuc}}}$$
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maihoangphuc"/>
