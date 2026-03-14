@@ -63,13 +63,13 @@ Let's get in touch to talk about potential collaboration.
 
 **Core**
 
-<img height="16" src="https://cdn.simpleicons.org/react" />&nbsp;
-<img height="16" src="https://cdn.simpleicons.org/vue.js" />&nbsp;
-<img height="16" src="https://cdn.simpleicons.org/nextdotjs" />&nbsp;
-<img height="16" src="https://cdn.simpleicons.org/javascript" />&nbsp;
-<img height="16" src="https://cdn.simpleicons.org/typescript" />
+<img height="18" src="https://skillicons.dev/icons?i=react" />
+<img height="18" src="https://skillicons.dev/icons?i=vue" />
+<img height="18" src="https://skillicons.dev/icons?i=nextjs" />
+<img height="18" src="https://skillicons.dev/icons?i=js" />
+<img height="18" src="https://skillicons.dev/icons?i=ts" />
 
 **Style**
 
-<img height="16" src="https://cdn.simpleicons.org/tailwindcss" />&nbsp;
-<img height="16" src="https://cdn.simpleicons.org/antdesign" />
+<img height="18" src="https://skillicons.dev/icons?i=tailwind" />
+<img height="18" src="https://skillicons.dev/icons?i=antd" />
