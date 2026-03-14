@@ -1,4 +1,4 @@
-### $${\color{white}{\text{Hi, I'm}}}\ \color{#90EE90}{\text{Phuc}}$$ 👨🏻‍💻
+### $${\color{white}{\text{Hi there 👋, I'm}}}\ \color{#90EE90}{\text{Mai Hoang Phuc}}$$ 👨🏻‍💻
 -----
 
 
