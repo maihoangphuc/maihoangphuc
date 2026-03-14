@@ -16,6 +16,11 @@ ${\color{#FFF59D}{\text{Frontend Developer}}}$ with ${\color{#FFF59D}{\text{3+ y
 
 </div>
 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Career Goals
+- 🚀 Build scalable frontend architectures
+- ⚡ Deliver high-performance web applications
+- 🎨 Craft intuitive and user-friendly interfaces
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge\&logo=react)
